@@ -551,3 +551,38 @@
  java.base@17.0.18/java.lang.Thread.run(Thread.java:840)
 29-Oct-2026 12:27:44.074 INFORMACIÓN [Thread-1] org.apache.coyote.AbstractProtocol.stop Stopping ProtocolHandler ["http-nio-8080"]
 29-Oct-2026 12:27:44.096 INFORMACIÓN [Thread-1] org.apache.coyote.AbstractProtocol.destroy Destroying ProtocolHandler ["http-nio-8080"]
+29-Oct-2026 12:27:45.699 INFORMACIÓN [main] org.apache.catalina.startup.VersionLoggerListener.log Nombre de la versión del servidor: Apache Tomcat/9.0.115
+29-Oct-2026 12:27:45.702 INFORMACIÓN [main] org.apache.catalina.startup.VersionLoggerListener.log Server built:                      Jan 21 2026 08:17:26 UTC
+29-Oct-2026 12:27:45.702 INFORMACIÓN [main] org.apache.catalina.startup.VersionLoggerListener.log Número de versión de servidor:     9.0.115.0
+29-Oct-2026 12:27:45.702 INFORMACIÓN [main] org.apache.catalina.startup.VersionLoggerListener.log OS Name:                           Windows 10
+29-Oct-2026 12:27:45.702 INFORMACIÓN [main] org.apache.catalina.startup.VersionLoggerListener.log Versión de Systema Operativo:      10.0
+29-Oct-2026 12:27:45.702 INFORMACIÓN [main] org.apache.catalina.startup.VersionLoggerListener.log Arquitectura:                      amd64
+29-Oct-2026 12:27:45.702 INFORMACIÓN [main] org.apache.catalina.startup.VersionLoggerListener.log Java Home:                         C:\Users\Alumno\.jdks\corretto-17.0.18
+29-Oct-2026 12:27:45.703 INFORMACIÓN [main] org.apache.catalina.startup.VersionLoggerListener.log JVM Version:                       17.0.18+8-LTS
+29-Oct-2026 12:27:45.703 INFORMACIÓN [main] org.apache.catalina.startup.VersionLoggerListener.log Vededor JVM:                       Amazon.com Inc.
+29-Oct-2026 12:27:45.703 INFORMACIÓN [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_BASE:                     C:\Users\Alumno\Desktop\Web-1
+29-Oct-2026 12:27:45.703 INFORMACIÓN [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_HOME:                     C:\Users\Alumno\Desktop\apache-tomcat-9.0.115
+29-Oct-2026 12:27:45.709 INFORMACIÓN [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument:             --add-opens=java.base/java.lang=ALL-UNNAMED
+29-Oct-2026 12:27:45.709 INFORMACIÓN [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument:             --add-opens=java.base/java.io=ALL-UNNAMED
+29-Oct-2026 12:27:45.709 INFORMACIÓN [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument:             --add-opens=java.base/java.util=ALL-UNNAMED
+29-Oct-2026 12:27:45.709 INFORMACIÓN [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument:             --add-opens=java.base/java.util.concurrent=ALL-UNNAMED
+29-Oct-2026 12:27:45.709 INFORMACIÓN [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument:             --add-opens=java.rmi/sun.rmi.transport=ALL-UNNAMED
+29-Oct-2026 12:27:45.709 INFORMACIÓN [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument:             -agentlib:jdwp=transport=dt_socket,address=127.0.0.1:58267,suspend=y,server=n
+29-Oct-2026 12:27:45.709 INFORMACIÓN [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument:             -Dcatalina.home=C:\Users\Alumno\Desktop\apache-tomcat-9.0.115
+29-Oct-2026 12:27:45.709 INFORMACIÓN [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument:             -Dcatalina.base=C:\Users\Alumno\Desktop\Web-1
+29-Oct-2026 12:27:45.709 INFORMACIÓN [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument:             -Djava.io.tmpdir=C:\Users\Alumno\Desktop\Web-1\temp
+29-Oct-2026 12:27:45.709 INFORMACIÓN [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument:             -Djava.util.logging.config.file=C:\Users\Alumno\Desktop\Web-1\conf\logging.properties
+29-Oct-2026 12:27:45.709 INFORMACIÓN [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument:             -Djava.util.logging.manager=org.apache.juli.ClassLoaderLogManager
+29-Oct-2026 12:27:45.709 INFORMACIÓN [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument:             -javaagent:C:\Users\Alumno\AppData\Local\JetBrains\IdeaIC2023.3\captureAgent\debugger-agent.jar
+29-Oct-2026 12:27:45.709 INFORMACIÓN [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument:             -Dfile.encoding=UTF-8
+29-Oct-2026 12:27:45.715 INFORMACIÓN [main] org.apache.catalina.core.AprLifecycleListener.lifecycleEvent La biblioteca nativa de Apache Tomcat basada en ARP que permite un rendimiento óptimo en entornos de desarrollo no ha sido hallada en java.library.path: [C:\Users\Alumno\.jdks\corretto-17.0.18\bin;C:\Windows\Sun\Java\bin;C:\Windows\system32;C:\Windows;C:\Program Files\Common Files\Oracle\Java\javapath;C:\Program Files\Java\jdk-25.0.2\bin;C:\app\Alumno\product\21c\dbhomeXE\bin;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Windows\System32\OpenSSH\;C:\Program Files\Git\cmd;C:\Program Files\nodejs\;C:\Program Files\dotnet\;C:\Users\Alumno\AppData\Local\Programs\Python\Python314\Scripts\;C:\Users\Alumno\AppData\Local\Programs\Python\Python314\;C:\Users\Alumno\AppData\Local\Programs\Python\Launcher\;C:\Program Files\MySQL\MySQL Shell 8.0\bin\;C:\Users\Alumno\AppData\Local\Microsoft\WindowsApps;C:\Users\Alumno\AppData\Local\JetBrains\Toolbox\scripts;C:\Users\Alumno\AppData\Local\Programs\Microsoft VS Code\bin;C:\Users\Alumno\AppData\Roaming\npm;C:\Users\Alumno\AppData\Local\Python\bin;.]
+29-Oct-2026 12:27:45.908 INFORMACIÓN [main] org.apache.coyote.AbstractProtocol.init Inicializando el manejador de protocolo ["http-nio-8080"]
+
+29-Oct-2026 12:27:45.932 INFORMACIÓN [main] org.apache.catalina.startup.Catalina.load Server initialization in [393] milliseconds
+29-Oct-2026 12:27:45.974 INFORMACIÓN [main] org.apache.catalina.core.StandardService.startInternal Arrancando servicio [Catalina]
+29-Oct-2026 12:27:45.974 INFORMACIÓN [main] org.apache.catalina.core.StandardEngine.startInternal Starting Servlet engine: [Apache Tomcat/9.0.115]
+29-Oct-2026 12:27:45.984 INFORMACIÓN [main] org.apache.catalina.startup.HostConfig.deployDescriptor Desplieque del descriptor de configuración [C:\Users\Alumno\Desktop\Web-1\conf\Catalina\localhost\Web.xml]
+29-Oct-2026 12:27:47.142 INFORMACIÓN [main] org.apache.jasper.servlet.TldScanner.scanJars Al menos un JAR, que se ha explorado buscando TLDs, aún no contenía TLDs. Activar historial de depuración para este historiador para una completa lista de los JARs que fueron explorados y de los que nos se halló TLDs. Saltarse JARs no necesarios durante la exploración puede dar lugar a una mejora de tiempo significativa en el arranque y compilación de JSP .
+29-Oct-2026 12:27:47.213 INFORMACIÓN [main] org.apache.catalina.startup.HostConfig.deployDescriptor Deployment of deployment descriptor [C:\Users\Alumno\Desktop\Web-1\conf\Catalina\localhost\Web.xml] has finished in [1.227] ms
+29-Oct-2026 12:27:47.217 INFORMACIÓN [main] org.apache.coyote.AbstractProtocol.start Starting ProtocolHandler ["http-nio-8080"]
+29-Oct-2026 12:27:47.250 INFORMACIÓN [main] org.apache.catalina.startup.Catalina.start Server startup in [1317] milliseconds
